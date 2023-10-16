@@ -14,11 +14,9 @@ Vale ressaltar que este foi um sistema somente para estudos. Nem tudo segue um r
 # Tela Inicial/Home
 ![image](https://github.com/gHenriqueCarlos/sistema-banco/assets/45677964/a664d008-bc9c-4af0-a86f-3f6c29700e64)
 
-# Depositar 
-Disponível sem precisar estar logado.
+# Depositar (Disponível sem precisar estar logado)
 ![image](https://github.com/gHenriqueCarlos/sistema-banco/assets/45677964/0274f176-8668-4b5d-b3ec-f359f5dbad8f) ![image](https://github.com/gHenriqueCarlos/sistema-banco/assets/45677964/d727c6cd-f168-43f1-9b95-b7630f9a3190) 
 ![image](https://github.com/gHenriqueCarlos/sistema-banco/assets/45677964/0cedaab9-2a2b-4cab-9163-f7216981c94f)
-
 
 # Saque
 ![image](https://github.com/gHenriqueCarlos/sistema-banco/assets/45677964/1fda2f34-560b-4a7d-8430-a9bf97f1870a) ![image](https://github.com/gHenriqueCarlos/sistema-banco/assets/45677964/808f3efe-3fca-40ae-a7eb-1ab8a3271b46) ![image](https://github.com/gHenriqueCarlos/sistema-banco/assets/45677964/5f533562-cdbe-4701-a2fb-aac8d3414f0e)
